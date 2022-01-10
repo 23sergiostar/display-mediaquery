@@ -1,0 +1,29 @@
+@media (max-width: 1024px) {
+    #id4 {
+        visibility: hidden;
+    }
+    body {
+        background-color: rgb(255, 126, 126);
+      }
+}
+@media (max-width: 768px) {
+    #id3 {
+        visibility: hidden;
+    }
+    body {
+        background-color: rgb(197, 126, 255);
+      }
+}
+@media (max-width: 480px) {
+    #id2 {
+        visibility: hidden;
+    }
+
+    body {
+        background-color: rgb(199, 255, 126);
+      }
+}
+
+a {
+    display: inline;
+}
